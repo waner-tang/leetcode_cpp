@@ -22,6 +22,7 @@ private:
     unordered_map<int,int> index_in;
 public:
     //根左右 左根右
+    //
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         for (int i = 0; i < inorder.size(); i++)
         {
