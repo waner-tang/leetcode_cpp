@@ -67,6 +67,12 @@
 },
 {
   "directory": "D:/VscodeDocuments/leetcode_cpp/build",
+  "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\124.cpp.obj -c D:\\VscodeDocuments\\leetcode_cpp\\124.cpp",
+  "file": "D:/VscodeDocuments/leetcode_cpp/124.cpp",
+  "output": "CMakeFiles/main.dir/124.cpp.obj"
+},
+{
+  "directory": "D:/VscodeDocuments/leetcode_cpp/build",
   "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\1312.cpp.obj -c D:\\VscodeDocuments\\leetcode_cpp\\1312.cpp",
   "file": "D:/VscodeDocuments/leetcode_cpp/1312.cpp",
   "output": "CMakeFiles/main.dir/1312.cpp.obj"
@@ -205,6 +211,12 @@
 },
 {
   "directory": "D:/VscodeDocuments/leetcode_cpp/build",
+  "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\236.cpp.obj -c D:\\VscodeDocuments\\leetcode_cpp\\236.cpp",
+  "file": "D:/VscodeDocuments/leetcode_cpp/236.cpp",
+  "output": "CMakeFiles/main.dir/236.cpp.obj"
+},
+{
+  "directory": "D:/VscodeDocuments/leetcode_cpp/build",
   "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\24.cpp.obj -c D:\\VscodeDocuments\\leetcode_cpp\\24.cpp",
   "file": "D:/VscodeDocuments/leetcode_cpp/24.cpp",
   "output": "CMakeFiles/main.dir/24.cpp.obj"
@@ -280,6 +292,12 @@
   "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\435.cpp.obj -c D:\\VscodeDocuments\\leetcode_cpp\\435.cpp",
   "file": "D:/VscodeDocuments/leetcode_cpp/435.cpp",
   "output": "CMakeFiles/main.dir/435.cpp.obj"
+},
+{
+  "directory": "D:/VscodeDocuments/leetcode_cpp/build",
+  "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\437.cpp.obj -c D:\\VscodeDocuments\\leetcode_cpp\\437.cpp",
+  "file": "D:/VscodeDocuments/leetcode_cpp/437.cpp",
+  "output": "CMakeFiles/main.dir/437.cpp.obj"
 },
 {
   "directory": "D:/VscodeDocuments/leetcode_cpp/build",
