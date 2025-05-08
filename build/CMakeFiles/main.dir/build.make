@@ -251,11 +251,41 @@ CMakeFiles/main.dir/124.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/124.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\124.cpp -o CMakeFiles\main.dir\124.cpp.s
 
+CMakeFiles/main.dir/128.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/128.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/128.cpp.obj: D:/VscodeDocuments/leetcode_cpp/128.cpp
+CMakeFiles/main.dir/128.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/main.dir/128.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/128.cpp.obj -MF CMakeFiles\main.dir\128.cpp.obj.d -o CMakeFiles\main.dir\128.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\128.cpp
+
+CMakeFiles/main.dir/128.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/128.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\128.cpp > CMakeFiles\main.dir\128.cpp.i
+
+CMakeFiles/main.dir/128.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/128.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\128.cpp -o CMakeFiles\main.dir\128.cpp.s
+
+CMakeFiles/main.dir/131.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/131.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/131.cpp.obj: D:/VscodeDocuments/leetcode_cpp/131.cpp
+CMakeFiles/main.dir/131.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/main.dir/131.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/131.cpp.obj -MF CMakeFiles\main.dir\131.cpp.obj.d -o CMakeFiles\main.dir\131.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\131.cpp
+
+CMakeFiles/main.dir/131.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/131.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\131.cpp > CMakeFiles\main.dir\131.cpp.i
+
+CMakeFiles/main.dir/131.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/131.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\131.cpp -o CMakeFiles\main.dir\131.cpp.s
+
 CMakeFiles/main.dir/1312.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/1312.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/1312.cpp.obj: D:/VscodeDocuments/leetcode_cpp/1312.cpp
 CMakeFiles/main.dir/1312.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/main.dir/1312.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/main.dir/1312.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/1312.cpp.obj -MF CMakeFiles\main.dir\1312.cpp.obj.d -o CMakeFiles\main.dir\1312.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\1312.cpp
 
 CMakeFiles/main.dir/1312.cpp.i: cmake_force
@@ -270,7 +300,7 @@ CMakeFiles/main.dir/138.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/138.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/138.cpp.obj: D:/VscodeDocuments/leetcode_cpp/138.cpp
 CMakeFiles/main.dir/138.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/main.dir/138.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/main.dir/138.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/138.cpp.obj -MF CMakeFiles\main.dir\138.cpp.obj.d -o CMakeFiles\main.dir\138.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\138.cpp
 
 CMakeFiles/main.dir/138.cpp.i: cmake_force
@@ -285,7 +315,7 @@ CMakeFiles/main.dir/139.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/139.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/139.cpp.obj: D:/VscodeDocuments/leetcode_cpp/139.cpp
 CMakeFiles/main.dir/139.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/main.dir/139.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/main.dir/139.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/139.cpp.obj -MF CMakeFiles\main.dir\139.cpp.obj.d -o CMakeFiles\main.dir\139.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\139.cpp
 
 CMakeFiles/main.dir/139.cpp.i: cmake_force
@@ -300,7 +330,7 @@ CMakeFiles/main.dir/140.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/140.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/140.cpp.obj: D:/VscodeDocuments/leetcode_cpp/140.cpp
 CMakeFiles/main.dir/140.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/main.dir/140.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/main.dir/140.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/140.cpp.obj -MF CMakeFiles\main.dir\140.cpp.obj.d -o CMakeFiles\main.dir\140.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\140.cpp
 
 CMakeFiles/main.dir/140.cpp.i: cmake_force
@@ -315,7 +345,7 @@ CMakeFiles/main.dir/142.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/142.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/142.cpp.obj: D:/VscodeDocuments/leetcode_cpp/142.cpp
 CMakeFiles/main.dir/142.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/main.dir/142.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/main.dir/142.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/142.cpp.obj -MF CMakeFiles\main.dir\142.cpp.obj.d -o CMakeFiles\main.dir\142.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\142.cpp
 
 CMakeFiles/main.dir/142.cpp.i: cmake_force
@@ -330,7 +360,7 @@ CMakeFiles/main.dir/146.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/146.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/146.cpp.obj: D:/VscodeDocuments/leetcode_cpp/146.cpp
 CMakeFiles/main.dir/146.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/main.dir/146.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/main.dir/146.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/146.cpp.obj -MF CMakeFiles\main.dir\146.cpp.obj.d -o CMakeFiles\main.dir\146.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\146.cpp
 
 CMakeFiles/main.dir/146.cpp.i: cmake_force
@@ -345,7 +375,7 @@ CMakeFiles/main.dir/148.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/148.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/148.cpp.obj: D:/VscodeDocuments/leetcode_cpp/148.cpp
 CMakeFiles/main.dir/148.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/main.dir/148.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/main.dir/148.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/148.cpp.obj -MF CMakeFiles\main.dir\148.cpp.obj.d -o CMakeFiles\main.dir\148.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\148.cpp
 
 CMakeFiles/main.dir/148.cpp.i: cmake_force
@@ -360,7 +390,7 @@ CMakeFiles/main.dir/152.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/152.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/152.cpp.obj: D:/VscodeDocuments/leetcode_cpp/152.cpp
 CMakeFiles/main.dir/152.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/main.dir/152.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/main.dir/152.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/152.cpp.obj -MF CMakeFiles\main.dir\152.cpp.obj.d -o CMakeFiles\main.dir\152.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\152.cpp
 
 CMakeFiles/main.dir/152.cpp.i: cmake_force
@@ -375,7 +405,7 @@ CMakeFiles/main.dir/160.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/160.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/160.cpp.obj: D:/VscodeDocuments/leetcode_cpp/160.cpp
 CMakeFiles/main.dir/160.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/main.dir/160.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/main.dir/160.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/160.cpp.obj -MF CMakeFiles\main.dir\160.cpp.obj.d -o CMakeFiles\main.dir\160.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\160.cpp
 
 CMakeFiles/main.dir/160.cpp.i: cmake_force
@@ -386,11 +416,26 @@ CMakeFiles/main.dir/160.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/160.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\160.cpp -o CMakeFiles\main.dir\160.cpp.s
 
+CMakeFiles/main.dir/17.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/17.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/17.cpp.obj: D:/VscodeDocuments/leetcode_cpp/17.cpp
+CMakeFiles/main.dir/17.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/main.dir/17.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/17.cpp.obj -MF CMakeFiles\main.dir\17.cpp.obj.d -o CMakeFiles\main.dir\17.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\17.cpp
+
+CMakeFiles/main.dir/17.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/17.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\17.cpp > CMakeFiles\main.dir\17.cpp.i
+
+CMakeFiles/main.dir/17.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/17.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\17.cpp -o CMakeFiles\main.dir\17.cpp.s
+
 CMakeFiles/main.dir/174.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/174.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/174.cpp.obj: D:/VscodeDocuments/leetcode_cpp/174.cpp
 CMakeFiles/main.dir/174.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/main.dir/174.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/main.dir/174.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/174.cpp.obj -MF CMakeFiles\main.dir\174.cpp.obj.d -o CMakeFiles\main.dir\174.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\174.cpp
 
 CMakeFiles/main.dir/174.cpp.i: cmake_force
@@ -405,7 +450,7 @@ CMakeFiles/main.dir/188.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/188.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/188.cpp.obj: D:/VscodeDocuments/leetcode_cpp/188.cpp
 CMakeFiles/main.dir/188.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/main.dir/188.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/main.dir/188.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/188.cpp.obj -MF CMakeFiles\main.dir\188.cpp.obj.d -o CMakeFiles\main.dir\188.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\188.cpp
 
 CMakeFiles/main.dir/188.cpp.i: cmake_force
@@ -420,7 +465,7 @@ CMakeFiles/main.dir/19.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/19.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/19.cpp.obj: D:/VscodeDocuments/leetcode_cpp/19.cpp
 CMakeFiles/main.dir/19.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/main.dir/19.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/main.dir/19.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/19.cpp.obj -MF CMakeFiles\main.dir\19.cpp.obj.d -o CMakeFiles\main.dir\19.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\19.cpp
 
 CMakeFiles/main.dir/19.cpp.i: cmake_force
@@ -435,7 +480,7 @@ CMakeFiles/main.dir/198.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/198.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/198.cpp.obj: D:/VscodeDocuments/leetcode_cpp/198.cpp
 CMakeFiles/main.dir/198.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/main.dir/198.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/main.dir/198.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/198.cpp.obj -MF CMakeFiles\main.dir\198.cpp.obj.d -o CMakeFiles\main.dir\198.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\198.cpp
 
 CMakeFiles/main.dir/198.cpp.i: cmake_force
@@ -450,7 +495,7 @@ CMakeFiles/main.dir/199.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/199.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/199.cpp.obj: D:/VscodeDocuments/leetcode_cpp/199.cpp
 CMakeFiles/main.dir/199.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/main.dir/199.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/main.dir/199.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/199.cpp.obj -MF CMakeFiles\main.dir\199.cpp.obj.d -o CMakeFiles\main.dir\199.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\199.cpp
 
 CMakeFiles/main.dir/199.cpp.i: cmake_force
@@ -465,7 +510,7 @@ CMakeFiles/main.dir/2.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/2.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/2.cpp.obj: D:/VscodeDocuments/leetcode_cpp/2.cpp
 CMakeFiles/main.dir/2.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/main.dir/2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/main.dir/2.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/2.cpp.obj -MF CMakeFiles\main.dir\2.cpp.obj.d -o CMakeFiles\main.dir\2.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\2.cpp
 
 CMakeFiles/main.dir/2.cpp.i: cmake_force
@@ -480,7 +525,7 @@ CMakeFiles/main.dir/200.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/200.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/200.cpp.obj: D:/VscodeDocuments/leetcode_cpp/200.cpp
 CMakeFiles/main.dir/200.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/main.dir/200.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/main.dir/200.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/200.cpp.obj -MF CMakeFiles\main.dir\200.cpp.obj.d -o CMakeFiles\main.dir\200.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\200.cpp
 
 CMakeFiles/main.dir/200.cpp.i: cmake_force
@@ -491,11 +536,41 @@ CMakeFiles/main.dir/200.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/200.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\200.cpp -o CMakeFiles\main.dir\200.cpp.s
 
+CMakeFiles/main.dir/207.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/207.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/207.cpp.obj: D:/VscodeDocuments/leetcode_cpp/207.cpp
+CMakeFiles/main.dir/207.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/main.dir/207.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/207.cpp.obj -MF CMakeFiles\main.dir\207.cpp.obj.d -o CMakeFiles\main.dir\207.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\207.cpp
+
+CMakeFiles/main.dir/207.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/207.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\207.cpp > CMakeFiles\main.dir\207.cpp.i
+
+CMakeFiles/main.dir/207.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/207.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\207.cpp -o CMakeFiles\main.dir\207.cpp.s
+
+CMakeFiles/main.dir/208.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/208.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/208.cpp.obj: D:/VscodeDocuments/leetcode_cpp/208.cpp
+CMakeFiles/main.dir/208.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/main.dir/208.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/208.cpp.obj -MF CMakeFiles\main.dir\208.cpp.obj.d -o CMakeFiles\main.dir\208.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\208.cpp
+
+CMakeFiles/main.dir/208.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/208.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\208.cpp > CMakeFiles\main.dir\208.cpp.i
+
+CMakeFiles/main.dir/208.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/208.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\208.cpp -o CMakeFiles\main.dir\208.cpp.s
+
 CMakeFiles/main.dir/21.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/21.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/21.cpp.obj: D:/VscodeDocuments/leetcode_cpp/21.cpp
 CMakeFiles/main.dir/21.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/main.dir/21.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/main.dir/21.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/21.cpp.obj -MF CMakeFiles\main.dir\21.cpp.obj.d -o CMakeFiles\main.dir\21.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\21.cpp
 
 CMakeFiles/main.dir/21.cpp.i: cmake_force
@@ -510,7 +585,7 @@ CMakeFiles/main.dir/213.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/213.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/213.cpp.obj: D:/VscodeDocuments/leetcode_cpp/213.cpp
 CMakeFiles/main.dir/213.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/main.dir/213.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/main.dir/213.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/213.cpp.obj -MF CMakeFiles\main.dir\213.cpp.obj.d -o CMakeFiles\main.dir\213.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\213.cpp
 
 CMakeFiles/main.dir/213.cpp.i: cmake_force
@@ -525,7 +600,7 @@ CMakeFiles/main.dir/22.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/22.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/22.cpp.obj: D:/VscodeDocuments/leetcode_cpp/22.cpp
 CMakeFiles/main.dir/22.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/main.dir/22.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/main.dir/22.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/22.cpp.obj -MF CMakeFiles\main.dir\22.cpp.obj.d -o CMakeFiles\main.dir\22.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\22.cpp
 
 CMakeFiles/main.dir/22.cpp.i: cmake_force
@@ -540,7 +615,7 @@ CMakeFiles/main.dir/226.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/226.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/226.cpp.obj: D:/VscodeDocuments/leetcode_cpp/226.cpp
 CMakeFiles/main.dir/226.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/main.dir/226.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/main.dir/226.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/226.cpp.obj -MF CMakeFiles\main.dir\226.cpp.obj.d -o CMakeFiles\main.dir\226.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\226.cpp
 
 CMakeFiles/main.dir/226.cpp.i: cmake_force
@@ -555,7 +630,7 @@ CMakeFiles/main.dir/23.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/23.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/23.cpp.obj: D:/VscodeDocuments/leetcode_cpp/23.cpp
 CMakeFiles/main.dir/23.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/main.dir/23.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/main.dir/23.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/23.cpp.obj -MF CMakeFiles\main.dir\23.cpp.obj.d -o CMakeFiles\main.dir\23.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\23.cpp
 
 CMakeFiles/main.dir/23.cpp.i: cmake_force
@@ -570,7 +645,7 @@ CMakeFiles/main.dir/230.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/230.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/230.cpp.obj: D:/VscodeDocuments/leetcode_cpp/230.cpp
 CMakeFiles/main.dir/230.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/main.dir/230.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/main.dir/230.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/230.cpp.obj -MF CMakeFiles\main.dir\230.cpp.obj.d -o CMakeFiles\main.dir\230.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\230.cpp
 
 CMakeFiles/main.dir/230.cpp.i: cmake_force
@@ -585,7 +660,7 @@ CMakeFiles/main.dir/234.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/234.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/234.cpp.obj: D:/VscodeDocuments/leetcode_cpp/234.cpp
 CMakeFiles/main.dir/234.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/main.dir/234.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/main.dir/234.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/234.cpp.obj -MF CMakeFiles\main.dir\234.cpp.obj.d -o CMakeFiles\main.dir\234.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\234.cpp
 
 CMakeFiles/main.dir/234.cpp.i: cmake_force
@@ -600,7 +675,7 @@ CMakeFiles/main.dir/236.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/236.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/236.cpp.obj: D:/VscodeDocuments/leetcode_cpp/236.cpp
 CMakeFiles/main.dir/236.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/main.dir/236.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/main.dir/236.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/236.cpp.obj -MF CMakeFiles\main.dir\236.cpp.obj.d -o CMakeFiles\main.dir\236.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\236.cpp
 
 CMakeFiles/main.dir/236.cpp.i: cmake_force
@@ -615,7 +690,7 @@ CMakeFiles/main.dir/24.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/24.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/24.cpp.obj: D:/VscodeDocuments/leetcode_cpp/24.cpp
 CMakeFiles/main.dir/24.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/main.dir/24.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/main.dir/24.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/24.cpp.obj -MF CMakeFiles\main.dir\24.cpp.obj.d -o CMakeFiles\main.dir\24.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\24.cpp
 
 CMakeFiles/main.dir/24.cpp.i: cmake_force
@@ -630,7 +705,7 @@ CMakeFiles/main.dir/25.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/25.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/25.cpp.obj: D:/VscodeDocuments/leetcode_cpp/25.cpp
 CMakeFiles/main.dir/25.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/main.dir/25.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/main.dir/25.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/25.cpp.obj -MF CMakeFiles\main.dir\25.cpp.obj.d -o CMakeFiles\main.dir\25.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\25.cpp
 
 CMakeFiles/main.dir/25.cpp.i: cmake_force
@@ -645,7 +720,7 @@ CMakeFiles/main.dir/279.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/279.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/279.cpp.obj: D:/VscodeDocuments/leetcode_cpp/279.cpp
 CMakeFiles/main.dir/279.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/main.dir/279.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/main.dir/279.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/279.cpp.obj -MF CMakeFiles\main.dir\279.cpp.obj.d -o CMakeFiles\main.dir\279.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\279.cpp
 
 CMakeFiles/main.dir/279.cpp.i: cmake_force
@@ -660,7 +735,7 @@ CMakeFiles/main.dir/28.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/28.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/28.cpp.obj: D:/VscodeDocuments/leetcode_cpp/28.cpp
 CMakeFiles/main.dir/28.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/main.dir/28.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/main.dir/28.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/28.cpp.obj -MF CMakeFiles\main.dir\28.cpp.obj.d -o CMakeFiles\main.dir\28.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\28.cpp
 
 CMakeFiles/main.dir/28.cpp.i: cmake_force
@@ -675,7 +750,7 @@ CMakeFiles/main.dir/300.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/300.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/300.cpp.obj: D:/VscodeDocuments/leetcode_cpp/300.cpp
 CMakeFiles/main.dir/300.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/main.dir/300.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/main.dir/300.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/300.cpp.obj -MF CMakeFiles\main.dir\300.cpp.obj.d -o CMakeFiles\main.dir\300.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\300.cpp
 
 CMakeFiles/main.dir/300.cpp.i: cmake_force
@@ -690,7 +765,7 @@ CMakeFiles/main.dir/309.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/309.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/309.cpp.obj: D:/VscodeDocuments/leetcode_cpp/309.cpp
 CMakeFiles/main.dir/309.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/main.dir/309.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/main.dir/309.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/309.cpp.obj -MF CMakeFiles\main.dir\309.cpp.obj.d -o CMakeFiles\main.dir\309.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\309.cpp
 
 CMakeFiles/main.dir/309.cpp.i: cmake_force
@@ -705,7 +780,7 @@ CMakeFiles/main.dir/32.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/32.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/32.cpp.obj: D:/VscodeDocuments/leetcode_cpp/32.cpp
 CMakeFiles/main.dir/32.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/main.dir/32.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/main.dir/32.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/32.cpp.obj -MF CMakeFiles\main.dir\32.cpp.obj.d -o CMakeFiles\main.dir\32.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\32.cpp
 
 CMakeFiles/main.dir/32.cpp.i: cmake_force
@@ -720,7 +795,7 @@ CMakeFiles/main.dir/322.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/322.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/322.cpp.obj: D:/VscodeDocuments/leetcode_cpp/322.cpp
 CMakeFiles/main.dir/322.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/main.dir/322.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/main.dir/322.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/322.cpp.obj -MF CMakeFiles\main.dir\322.cpp.obj.d -o CMakeFiles\main.dir\322.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\322.cpp
 
 CMakeFiles/main.dir/322.cpp.i: cmake_force
@@ -735,7 +810,7 @@ CMakeFiles/main.dir/337.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/337.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/337.cpp.obj: D:/VscodeDocuments/leetcode_cpp/337.cpp
 CMakeFiles/main.dir/337.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/main.dir/337.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/main.dir/337.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/337.cpp.obj -MF CMakeFiles\main.dir\337.cpp.obj.d -o CMakeFiles\main.dir\337.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\337.cpp
 
 CMakeFiles/main.dir/337.cpp.i: cmake_force
@@ -750,7 +825,7 @@ CMakeFiles/main.dir/344.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/344.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/344.cpp.obj: D:/VscodeDocuments/leetcode_cpp/344.cpp
 CMakeFiles/main.dir/344.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/main.dir/344.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/main.dir/344.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/344.cpp.obj -MF CMakeFiles\main.dir\344.cpp.obj.d -o CMakeFiles\main.dir\344.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\344.cpp
 
 CMakeFiles/main.dir/344.cpp.i: cmake_force
@@ -765,7 +840,7 @@ CMakeFiles/main.dir/354.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/354.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/354.cpp.obj: D:/VscodeDocuments/leetcode_cpp/354.cpp
 CMakeFiles/main.dir/354.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/main.dir/354.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/main.dir/354.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/354.cpp.obj -MF CMakeFiles\main.dir\354.cpp.obj.d -o CMakeFiles\main.dir\354.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\354.cpp
 
 CMakeFiles/main.dir/354.cpp.i: cmake_force
@@ -776,11 +851,26 @@ CMakeFiles/main.dir/354.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/354.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\354.cpp -o CMakeFiles\main.dir\354.cpp.s
 
+CMakeFiles/main.dir/39.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/39.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/39.cpp.obj: D:/VscodeDocuments/leetcode_cpp/39.cpp
+CMakeFiles/main.dir/39.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/main.dir/39.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/39.cpp.obj -MF CMakeFiles\main.dir\39.cpp.obj.d -o CMakeFiles\main.dir\39.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\39.cpp
+
+CMakeFiles/main.dir/39.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/39.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\39.cpp > CMakeFiles\main.dir\39.cpp.i
+
+CMakeFiles/main.dir/39.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/39.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\39.cpp -o CMakeFiles\main.dir\39.cpp.s
+
 CMakeFiles/main.dir/416.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/416.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/416.cpp.obj: D:/VscodeDocuments/leetcode_cpp/416.cpp
 CMakeFiles/main.dir/416.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/main.dir/416.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/main.dir/416.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/416.cpp.obj -MF CMakeFiles\main.dir\416.cpp.obj.d -o CMakeFiles\main.dir\416.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\416.cpp
 
 CMakeFiles/main.dir/416.cpp.i: cmake_force
@@ -795,7 +885,7 @@ CMakeFiles/main.dir/435.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/435.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/435.cpp.obj: D:/VscodeDocuments/leetcode_cpp/435.cpp
 CMakeFiles/main.dir/435.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/main.dir/435.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/main.dir/435.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/435.cpp.obj -MF CMakeFiles\main.dir\435.cpp.obj.d -o CMakeFiles\main.dir\435.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\435.cpp
 
 CMakeFiles/main.dir/435.cpp.i: cmake_force
@@ -810,7 +900,7 @@ CMakeFiles/main.dir/437.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/437.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/437.cpp.obj: D:/VscodeDocuments/leetcode_cpp/437.cpp
 CMakeFiles/main.dir/437.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/main.dir/437.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/main.dir/437.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/437.cpp.obj -MF CMakeFiles\main.dir\437.cpp.obj.d -o CMakeFiles\main.dir\437.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\437.cpp
 
 CMakeFiles/main.dir/437.cpp.i: cmake_force
@@ -821,11 +911,26 @@ CMakeFiles/main.dir/437.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/437.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\437.cpp -o CMakeFiles\main.dir\437.cpp.s
 
+CMakeFiles/main.dir/45.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/45.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/45.cpp.obj: D:/VscodeDocuments/leetcode_cpp/45.cpp
+CMakeFiles/main.dir/45.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/main.dir/45.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/45.cpp.obj -MF CMakeFiles\main.dir\45.cpp.obj.d -o CMakeFiles\main.dir\45.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\45.cpp
+
+CMakeFiles/main.dir/45.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/45.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\45.cpp > CMakeFiles\main.dir\45.cpp.i
+
+CMakeFiles/main.dir/45.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/45.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\45.cpp -o CMakeFiles\main.dir\45.cpp.s
+
 CMakeFiles/main.dir/452.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/452.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/452.cpp.obj: D:/VscodeDocuments/leetcode_cpp/452.cpp
 CMakeFiles/main.dir/452.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/main.dir/452.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/main.dir/452.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/452.cpp.obj -MF CMakeFiles\main.dir\452.cpp.obj.d -o CMakeFiles\main.dir\452.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\452.cpp
 
 CMakeFiles/main.dir/452.cpp.i: cmake_force
@@ -836,11 +941,26 @@ CMakeFiles/main.dir/452.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/452.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\452.cpp -o CMakeFiles\main.dir\452.cpp.s
 
+CMakeFiles/main.dir/46.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/46.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/46.cpp.obj: D:/VscodeDocuments/leetcode_cpp/46.cpp
+CMakeFiles/main.dir/46.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/main.dir/46.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/46.cpp.obj -MF CMakeFiles\main.dir\46.cpp.obj.d -o CMakeFiles\main.dir\46.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\46.cpp
+
+CMakeFiles/main.dir/46.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/46.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\46.cpp > CMakeFiles\main.dir\46.cpp.i
+
+CMakeFiles/main.dir/46.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/46.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\46.cpp -o CMakeFiles\main.dir\46.cpp.s
+
 CMakeFiles/main.dir/486.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/486.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/486.cpp.obj: D:/VscodeDocuments/leetcode_cpp/486.cpp
 CMakeFiles/main.dir/486.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/main.dir/486.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/main.dir/486.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/486.cpp.obj -MF CMakeFiles\main.dir\486.cpp.obj.d -o CMakeFiles\main.dir\486.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\486.cpp
 
 CMakeFiles/main.dir/486.cpp.i: cmake_force
@@ -851,11 +971,26 @@ CMakeFiles/main.dir/486.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/486.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\486.cpp -o CMakeFiles\main.dir\486.cpp.s
 
+CMakeFiles/main.dir/49.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/49.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/49.cpp.obj: D:/VscodeDocuments/leetcode_cpp/49.cpp
+CMakeFiles/main.dir/49.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/main.dir/49.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/49.cpp.obj -MF CMakeFiles\main.dir\49.cpp.obj.d -o CMakeFiles\main.dir\49.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\49.cpp
+
+CMakeFiles/main.dir/49.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/49.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\49.cpp > CMakeFiles\main.dir\49.cpp.i
+
+CMakeFiles/main.dir/49.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/49.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\49.cpp -o CMakeFiles\main.dir\49.cpp.s
+
 CMakeFiles/main.dir/5.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/5.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/5.cpp.obj: D:/VscodeDocuments/leetcode_cpp/5.cpp
 CMakeFiles/main.dir/5.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/main.dir/5.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/main.dir/5.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/5.cpp.obj -MF CMakeFiles\main.dir\5.cpp.obj.d -o CMakeFiles\main.dir\5.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\5.cpp
 
 CMakeFiles/main.dir/5.cpp.i: cmake_force
@@ -870,7 +1005,7 @@ CMakeFiles/main.dir/509.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/509.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/509.cpp.obj: D:/VscodeDocuments/leetcode_cpp/509.cpp
 CMakeFiles/main.dir/509.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/main.dir/509.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/main.dir/509.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/509.cpp.obj -MF CMakeFiles\main.dir\509.cpp.obj.d -o CMakeFiles\main.dir\509.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\509.cpp
 
 CMakeFiles/main.dir/509.cpp.i: cmake_force
@@ -881,11 +1016,26 @@ CMakeFiles/main.dir/509.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/509.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\509.cpp -o CMakeFiles\main.dir\509.cpp.s
 
+CMakeFiles/main.dir/51.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/51.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/51.cpp.obj: D:/VscodeDocuments/leetcode_cpp/51.cpp
+CMakeFiles/main.dir/51.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/main.dir/51.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/51.cpp.obj -MF CMakeFiles\main.dir\51.cpp.obj.d -o CMakeFiles\main.dir\51.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\51.cpp
+
+CMakeFiles/main.dir/51.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/51.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\51.cpp > CMakeFiles\main.dir\51.cpp.i
+
+CMakeFiles/main.dir/51.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/51.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\51.cpp -o CMakeFiles\main.dir\51.cpp.s
+
 CMakeFiles/main.dir/516.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/516.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/516.cpp.obj: D:/VscodeDocuments/leetcode_cpp/516.cpp
 CMakeFiles/main.dir/516.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/main.dir/516.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/main.dir/516.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/516.cpp.obj -MF CMakeFiles\main.dir\516.cpp.obj.d -o CMakeFiles\main.dir\516.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\516.cpp
 
 CMakeFiles/main.dir/516.cpp.i: cmake_force
@@ -900,7 +1050,7 @@ CMakeFiles/main.dir/53.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/53.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/53.cpp.obj: D:/VscodeDocuments/leetcode_cpp/53.cpp
 CMakeFiles/main.dir/53.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/main.dir/53.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/main.dir/53.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/53.cpp.obj -MF CMakeFiles\main.dir\53.cpp.obj.d -o CMakeFiles\main.dir\53.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\53.cpp
 
 CMakeFiles/main.dir/53.cpp.i: cmake_force
@@ -915,7 +1065,7 @@ CMakeFiles/main.dir/543.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/543.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/543.cpp.obj: D:/VscodeDocuments/leetcode_cpp/543.cpp
 CMakeFiles/main.dir/543.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/main.dir/543.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/main.dir/543.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/543.cpp.obj -MF CMakeFiles\main.dir\543.cpp.obj.d -o CMakeFiles\main.dir\543.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\543.cpp
 
 CMakeFiles/main.dir/543.cpp.i: cmake_force
@@ -930,7 +1080,7 @@ CMakeFiles/main.dir/55.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/55.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/55.cpp.obj: D:/VscodeDocuments/leetcode_cpp/55.cpp
 CMakeFiles/main.dir/55.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/main.dir/55.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/main.dir/55.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/55.cpp.obj -MF CMakeFiles\main.dir\55.cpp.obj.d -o CMakeFiles\main.dir\55.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\55.cpp
 
 CMakeFiles/main.dir/55.cpp.i: cmake_force
@@ -945,7 +1095,7 @@ CMakeFiles/main.dir/583.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/583.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/583.cpp.obj: D:/VscodeDocuments/leetcode_cpp/583.cpp
 CMakeFiles/main.dir/583.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/main.dir/583.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/main.dir/583.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/583.cpp.obj -MF CMakeFiles\main.dir\583.cpp.obj.d -o CMakeFiles\main.dir\583.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\583.cpp
 
 CMakeFiles/main.dir/583.cpp.i: cmake_force
@@ -960,7 +1110,7 @@ CMakeFiles/main.dir/62.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/62.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/62.cpp.obj: D:/VscodeDocuments/leetcode_cpp/62.cpp
 CMakeFiles/main.dir/62.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/main.dir/62.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/main.dir/62.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/62.cpp.obj -MF CMakeFiles\main.dir\62.cpp.obj.d -o CMakeFiles\main.dir\62.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\62.cpp
 
 CMakeFiles/main.dir/62.cpp.i: cmake_force
@@ -975,7 +1125,7 @@ CMakeFiles/main.dir/64.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/64.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/64.cpp.obj: D:/VscodeDocuments/leetcode_cpp/64.cpp
 CMakeFiles/main.dir/64.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/main.dir/64.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/main.dir/64.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/64.cpp.obj -MF CMakeFiles\main.dir\64.cpp.obj.d -o CMakeFiles\main.dir\64.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\64.cpp
 
 CMakeFiles/main.dir/64.cpp.i: cmake_force
@@ -990,7 +1140,7 @@ CMakeFiles/main.dir/684.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/684.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/684.cpp.obj: D:/VscodeDocuments/leetcode_cpp/684.cpp
 CMakeFiles/main.dir/684.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/main.dir/684.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/main.dir/684.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/684.cpp.obj -MF CMakeFiles\main.dir\684.cpp.obj.d -o CMakeFiles\main.dir\684.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\684.cpp
 
 CMakeFiles/main.dir/684.cpp.i: cmake_force
@@ -1005,7 +1155,7 @@ CMakeFiles/main.dir/70.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/70.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/70.cpp.obj: D:/VscodeDocuments/leetcode_cpp/70.cpp
 CMakeFiles/main.dir/70.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/main.dir/70.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/main.dir/70.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/70.cpp.obj -MF CMakeFiles\main.dir\70.cpp.obj.d -o CMakeFiles\main.dir\70.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\70.cpp
 
 CMakeFiles/main.dir/70.cpp.i: cmake_force
@@ -1020,7 +1170,7 @@ CMakeFiles/main.dir/714.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/714.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/714.cpp.obj: D:/VscodeDocuments/leetcode_cpp/714.cpp
 CMakeFiles/main.dir/714.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/main.dir/714.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/main.dir/714.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/714.cpp.obj -MF CMakeFiles\main.dir\714.cpp.obj.d -o CMakeFiles\main.dir\714.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\714.cpp
 
 CMakeFiles/main.dir/714.cpp.i: cmake_force
@@ -1035,7 +1185,7 @@ CMakeFiles/main.dir/72.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/72.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/72.cpp.obj: D:/VscodeDocuments/leetcode_cpp/72.cpp
 CMakeFiles/main.dir/72.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/main.dir/72.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/main.dir/72.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/72.cpp.obj -MF CMakeFiles\main.dir\72.cpp.obj.d -o CMakeFiles\main.dir\72.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\72.cpp
 
 CMakeFiles/main.dir/72.cpp.i: cmake_force
@@ -1046,11 +1196,26 @@ CMakeFiles/main.dir/72.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/72.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\72.cpp -o CMakeFiles\main.dir\72.cpp.s
 
+CMakeFiles/main.dir/763.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/763.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/763.cpp.obj: D:/VscodeDocuments/leetcode_cpp/763.cpp
+CMakeFiles/main.dir/763.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/main.dir/763.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/763.cpp.obj -MF CMakeFiles\main.dir\763.cpp.obj.d -o CMakeFiles\main.dir\763.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\763.cpp
+
+CMakeFiles/main.dir/763.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/763.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\763.cpp > CMakeFiles\main.dir\763.cpp.i
+
+CMakeFiles/main.dir/763.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/763.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\763.cpp -o CMakeFiles\main.dir\763.cpp.s
+
 CMakeFiles/main.dir/78.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/78.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/78.cpp.obj: D:/VscodeDocuments/leetcode_cpp/78.cpp
 CMakeFiles/main.dir/78.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/main.dir/78.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/main.dir/78.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/78.cpp.obj -MF CMakeFiles\main.dir\78.cpp.obj.d -o CMakeFiles\main.dir\78.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\78.cpp
 
 CMakeFiles/main.dir/78.cpp.i: cmake_force
@@ -1061,11 +1226,26 @@ CMakeFiles/main.dir/78.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/78.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\78.cpp -o CMakeFiles\main.dir\78.cpp.s
 
+CMakeFiles/main.dir/79.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/79.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/79.cpp.obj: D:/VscodeDocuments/leetcode_cpp/79.cpp
+CMakeFiles/main.dir/79.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/main.dir/79.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/79.cpp.obj -MF CMakeFiles\main.dir\79.cpp.obj.d -o CMakeFiles\main.dir\79.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\79.cpp
+
+CMakeFiles/main.dir/79.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/79.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\79.cpp > CMakeFiles\main.dir\79.cpp.i
+
+CMakeFiles/main.dir/79.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/79.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\79.cpp -o CMakeFiles\main.dir\79.cpp.s
+
 CMakeFiles/main.dir/877.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/877.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/877.cpp.obj: D:/VscodeDocuments/leetcode_cpp/877.cpp
 CMakeFiles/main.dir/877.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/main.dir/877.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/main.dir/877.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/877.cpp.obj -MF CMakeFiles\main.dir\877.cpp.obj.d -o CMakeFiles\main.dir\877.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\877.cpp
 
 CMakeFiles/main.dir/877.cpp.i: cmake_force
@@ -1080,7 +1260,7 @@ CMakeFiles/main.dir/887.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/887.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/887.cpp.obj: D:/VscodeDocuments/leetcode_cpp/887.cpp
 CMakeFiles/main.dir/887.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/main.dir/887.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/main.dir/887.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/887.cpp.obj -MF CMakeFiles\main.dir\887.cpp.obj.d -o CMakeFiles\main.dir\887.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\887.cpp
 
 CMakeFiles/main.dir/887.cpp.i: cmake_force
@@ -1095,7 +1275,7 @@ CMakeFiles/main.dir/938.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/938.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/938.cpp.obj: D:/VscodeDocuments/leetcode_cpp/938.cpp
 CMakeFiles/main.dir/938.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/main.dir/938.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/main.dir/938.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/938.cpp.obj -MF CMakeFiles\main.dir\938.cpp.obj.d -o CMakeFiles\main.dir\938.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\938.cpp
 
 CMakeFiles/main.dir/938.cpp.i: cmake_force
@@ -1110,7 +1290,7 @@ CMakeFiles/main.dir/95.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/95.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/95.cpp.obj: D:/VscodeDocuments/leetcode_cpp/95.cpp
 CMakeFiles/main.dir/95.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/main.dir/95.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/main.dir/95.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/95.cpp.obj -MF CMakeFiles\main.dir\95.cpp.obj.d -o CMakeFiles\main.dir\95.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\95.cpp
 
 CMakeFiles/main.dir/95.cpp.i: cmake_force
@@ -1125,7 +1305,7 @@ CMakeFiles/main.dir/97.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/97.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/97.cpp.obj: D:/VscodeDocuments/leetcode_cpp/97.cpp
 CMakeFiles/main.dir/97.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/main.dir/97.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/main.dir/97.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/97.cpp.obj -MF CMakeFiles\main.dir\97.cpp.obj.d -o CMakeFiles\main.dir\97.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\97.cpp
 
 CMakeFiles/main.dir/97.cpp.i: cmake_force
@@ -1140,7 +1320,7 @@ CMakeFiles/main.dir/98.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/98.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/98.cpp.obj: D:/VscodeDocuments/leetcode_cpp/98.cpp
 CMakeFiles/main.dir/98.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/main.dir/98.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/main.dir/98.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/98.cpp.obj -MF CMakeFiles\main.dir\98.cpp.obj.d -o CMakeFiles\main.dir\98.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\98.cpp
 
 CMakeFiles/main.dir/98.cpp.i: cmake_force
@@ -1155,7 +1335,7 @@ CMakeFiles/main.dir/990.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/990.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/990.cpp.obj: D:/VscodeDocuments/leetcode_cpp/990.cpp
 CMakeFiles/main.dir/990.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/main.dir/990.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/main.dir/990.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/990.cpp.obj -MF CMakeFiles\main.dir\990.cpp.obj.d -o CMakeFiles\main.dir\990.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\990.cpp
 
 CMakeFiles/main.dir/990.cpp.i: cmake_force
@@ -1166,11 +1346,26 @@ CMakeFiles/main.dir/990.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/990.cpp.s"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\990.cpp -o CMakeFiles\main.dir\990.cpp.s
 
+CMakeFiles/main.dir/994.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/994.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/994.cpp.obj: D:/VscodeDocuments/leetcode_cpp/994.cpp
+CMakeFiles/main.dir/994.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/main.dir/994.cpp.obj"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/994.cpp.obj -MF CMakeFiles\main.dir\994.cpp.obj.d -o CMakeFiles\main.dir\994.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\994.cpp
+
+CMakeFiles/main.dir/994.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/994.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeDocuments\leetcode_cpp\994.cpp > CMakeFiles\main.dir\994.cpp.i
+
+CMakeFiles/main.dir/994.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/994.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeDocuments\leetcode_cpp\994.cpp -o CMakeFiles\main.dir\994.cpp.s
+
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/src/main.cpp.obj: D:/VscodeDocuments/leetcode_cpp/src/main.cpp
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/main.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/main.dir/src/main.cpp.obj"
 	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.obj -MF CMakeFiles\main.dir\src\main.cpp.obj.d -o CMakeFiles\main.dir\src\main.cpp.obj -c D:\VscodeDocuments\leetcode_cpp\src\main.cpp
 
 CMakeFiles/main.dir/src/main.cpp.i: cmake_force
@@ -1195,6 +1390,8 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/122.cpp.obj" \
 "CMakeFiles/main.dir/123.cpp.obj" \
 "CMakeFiles/main.dir/124.cpp.obj" \
+"CMakeFiles/main.dir/128.cpp.obj" \
+"CMakeFiles/main.dir/131.cpp.obj" \
 "CMakeFiles/main.dir/1312.cpp.obj" \
 "CMakeFiles/main.dir/138.cpp.obj" \
 "CMakeFiles/main.dir/139.cpp.obj" \
@@ -1204,6 +1401,7 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/148.cpp.obj" \
 "CMakeFiles/main.dir/152.cpp.obj" \
 "CMakeFiles/main.dir/160.cpp.obj" \
+"CMakeFiles/main.dir/17.cpp.obj" \
 "CMakeFiles/main.dir/174.cpp.obj" \
 "CMakeFiles/main.dir/188.cpp.obj" \
 "CMakeFiles/main.dir/19.cpp.obj" \
@@ -1211,6 +1409,8 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/199.cpp.obj" \
 "CMakeFiles/main.dir/2.cpp.obj" \
 "CMakeFiles/main.dir/200.cpp.obj" \
+"CMakeFiles/main.dir/207.cpp.obj" \
+"CMakeFiles/main.dir/208.cpp.obj" \
 "CMakeFiles/main.dir/21.cpp.obj" \
 "CMakeFiles/main.dir/213.cpp.obj" \
 "CMakeFiles/main.dir/22.cpp.obj" \
@@ -1230,13 +1430,18 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/337.cpp.obj" \
 "CMakeFiles/main.dir/344.cpp.obj" \
 "CMakeFiles/main.dir/354.cpp.obj" \
+"CMakeFiles/main.dir/39.cpp.obj" \
 "CMakeFiles/main.dir/416.cpp.obj" \
 "CMakeFiles/main.dir/435.cpp.obj" \
 "CMakeFiles/main.dir/437.cpp.obj" \
+"CMakeFiles/main.dir/45.cpp.obj" \
 "CMakeFiles/main.dir/452.cpp.obj" \
+"CMakeFiles/main.dir/46.cpp.obj" \
 "CMakeFiles/main.dir/486.cpp.obj" \
+"CMakeFiles/main.dir/49.cpp.obj" \
 "CMakeFiles/main.dir/5.cpp.obj" \
 "CMakeFiles/main.dir/509.cpp.obj" \
+"CMakeFiles/main.dir/51.cpp.obj" \
 "CMakeFiles/main.dir/516.cpp.obj" \
 "CMakeFiles/main.dir/53.cpp.obj" \
 "CMakeFiles/main.dir/543.cpp.obj" \
@@ -1248,7 +1453,9 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/70.cpp.obj" \
 "CMakeFiles/main.dir/714.cpp.obj" \
 "CMakeFiles/main.dir/72.cpp.obj" \
+"CMakeFiles/main.dir/763.cpp.obj" \
 "CMakeFiles/main.dir/78.cpp.obj" \
+"CMakeFiles/main.dir/79.cpp.obj" \
 "CMakeFiles/main.dir/877.cpp.obj" \
 "CMakeFiles/main.dir/887.cpp.obj" \
 "CMakeFiles/main.dir/938.cpp.obj" \
@@ -1256,6 +1463,7 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/97.cpp.obj" \
 "CMakeFiles/main.dir/98.cpp.obj" \
 "CMakeFiles/main.dir/990.cpp.obj" \
+"CMakeFiles/main.dir/994.cpp.obj" \
 "CMakeFiles/main.dir/src/main.cpp.obj"
 
 # External object files for target main
@@ -1273,6 +1481,8 @@ main.exe: CMakeFiles/main.dir/121.cpp.obj
 main.exe: CMakeFiles/main.dir/122.cpp.obj
 main.exe: CMakeFiles/main.dir/123.cpp.obj
 main.exe: CMakeFiles/main.dir/124.cpp.obj
+main.exe: CMakeFiles/main.dir/128.cpp.obj
+main.exe: CMakeFiles/main.dir/131.cpp.obj
 main.exe: CMakeFiles/main.dir/1312.cpp.obj
 main.exe: CMakeFiles/main.dir/138.cpp.obj
 main.exe: CMakeFiles/main.dir/139.cpp.obj
@@ -1282,6 +1492,7 @@ main.exe: CMakeFiles/main.dir/146.cpp.obj
 main.exe: CMakeFiles/main.dir/148.cpp.obj
 main.exe: CMakeFiles/main.dir/152.cpp.obj
 main.exe: CMakeFiles/main.dir/160.cpp.obj
+main.exe: CMakeFiles/main.dir/17.cpp.obj
 main.exe: CMakeFiles/main.dir/174.cpp.obj
 main.exe: CMakeFiles/main.dir/188.cpp.obj
 main.exe: CMakeFiles/main.dir/19.cpp.obj
@@ -1289,6 +1500,8 @@ main.exe: CMakeFiles/main.dir/198.cpp.obj
 main.exe: CMakeFiles/main.dir/199.cpp.obj
 main.exe: CMakeFiles/main.dir/2.cpp.obj
 main.exe: CMakeFiles/main.dir/200.cpp.obj
+main.exe: CMakeFiles/main.dir/207.cpp.obj
+main.exe: CMakeFiles/main.dir/208.cpp.obj
 main.exe: CMakeFiles/main.dir/21.cpp.obj
 main.exe: CMakeFiles/main.dir/213.cpp.obj
 main.exe: CMakeFiles/main.dir/22.cpp.obj
@@ -1308,13 +1521,18 @@ main.exe: CMakeFiles/main.dir/322.cpp.obj
 main.exe: CMakeFiles/main.dir/337.cpp.obj
 main.exe: CMakeFiles/main.dir/344.cpp.obj
 main.exe: CMakeFiles/main.dir/354.cpp.obj
+main.exe: CMakeFiles/main.dir/39.cpp.obj
 main.exe: CMakeFiles/main.dir/416.cpp.obj
 main.exe: CMakeFiles/main.dir/435.cpp.obj
 main.exe: CMakeFiles/main.dir/437.cpp.obj
+main.exe: CMakeFiles/main.dir/45.cpp.obj
 main.exe: CMakeFiles/main.dir/452.cpp.obj
+main.exe: CMakeFiles/main.dir/46.cpp.obj
 main.exe: CMakeFiles/main.dir/486.cpp.obj
+main.exe: CMakeFiles/main.dir/49.cpp.obj
 main.exe: CMakeFiles/main.dir/5.cpp.obj
 main.exe: CMakeFiles/main.dir/509.cpp.obj
+main.exe: CMakeFiles/main.dir/51.cpp.obj
 main.exe: CMakeFiles/main.dir/516.cpp.obj
 main.exe: CMakeFiles/main.dir/53.cpp.obj
 main.exe: CMakeFiles/main.dir/543.cpp.obj
@@ -1326,7 +1544,9 @@ main.exe: CMakeFiles/main.dir/684.cpp.obj
 main.exe: CMakeFiles/main.dir/70.cpp.obj
 main.exe: CMakeFiles/main.dir/714.cpp.obj
 main.exe: CMakeFiles/main.dir/72.cpp.obj
+main.exe: CMakeFiles/main.dir/763.cpp.obj
 main.exe: CMakeFiles/main.dir/78.cpp.obj
+main.exe: CMakeFiles/main.dir/79.cpp.obj
 main.exe: CMakeFiles/main.dir/877.cpp.obj
 main.exe: CMakeFiles/main.dir/887.cpp.obj
 main.exe: CMakeFiles/main.dir/938.cpp.obj
@@ -1334,12 +1554,13 @@ main.exe: CMakeFiles/main.dir/95.cpp.obj
 main.exe: CMakeFiles/main.dir/97.cpp.obj
 main.exe: CMakeFiles/main.dir/98.cpp.obj
 main.exe: CMakeFiles/main.dir/990.cpp.obj
+main.exe: CMakeFiles/main.dir/994.cpp.obj
 main.exe: CMakeFiles/main.dir/src/main.cpp.obj
 main.exe: CMakeFiles/main.dir/build.make
 main.exe: CMakeFiles/main.dir/linkLibs.rsp
 main.exe: CMakeFiles/main.dir/objects1.rsp
 main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Linking CXX executable main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\VscodeDocuments\leetcode_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Linking CXX executable main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
