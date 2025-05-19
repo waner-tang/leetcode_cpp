@@ -32,6 +32,8 @@ public:
             total_max=max(curr_max,total_max);
         }
         return total_max;
+
+        
     }
 };
 // @lc code=end

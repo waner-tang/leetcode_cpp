@@ -6,88 +6,32 @@
  */
 
 // @lc code=start
-struct DlinkedNode
-{
+struct listNode {
+    listNode* next;
+    listNode* before;
     int key;
-    int value;
-    DlinkedNode * prev;
-    DlinkedNode * next;
-    DlinkedNode():key(0),value(0),prev(nullptr),next(nullptr){}
-    DlinkedNode(int _key, int _value):key(_key),value(_value),prev(nullptr),next(nullptr){}
+    int val;
+    listNode(int key_) : key(key_), next(nullptr), before(nullptr) {}
+    listNode() : key(0), next(nullptr), before(nullptr) {}
 };
 class LRUCache {
 private:
     int capacity;
-    unordered_map<int,DlinkedNode *> reserve;
-    DlinkedNode * head;
-    DlinkedNode * tail;
+    unordered_map<int,listNode*> reserve;
+    listNode* start;
 public:
-    LRUCache(int _capacity) {
-        capacity=_capacity;
-        // 制造伪头节点与伪尾节点
-        head=new DlinkedNode();
-        tail=new DlinkedNode();
-        head->next=tail;
-        tail->prev=head;
+    LRUCache(int capacity) {
+        this->capacity=capacity;
+        listNode dummy;
+        start=&dummy;
     }
     
     int get(int key) {
-        if (reserve.find(key)!=reserve.end())
-        {
-            DlinkedNode * curr=reserve[key];
-            removeNode(curr);
-            addToHead(curr);
-            return head->next->value;
-        }
-        else
-        {
-            return -1;
-        }
         
     }
     
     void put(int key, int value) {
-        if (reserve.find(key)!=reserve.end())
-        {
-            DlinkedNode * curr=reserve[key];
-            removeNode(curr);
-            addToHead(curr);
-            curr->value=value;
-        }
-        else
-        {
-            DlinkedNode * curr=new DlinkedNode(key,value);
-            reserve[key]=curr;
-            addToHead(curr);
-            if (reserve.size()>capacity)
-            {
-                DlinkedNode * re=removeTail();
-                reserve.erase(reserve.find(re->key));
-                delete re;
-            }
-            
-        }
         
-    }
-
-    void removeNode(DlinkedNode * curr)
-    {
-        curr->prev->next=curr->next;
-        curr->next->prev=curr->prev;
-    }
-    void addToHead(DlinkedNode * curr)
-    {
-        curr->prev=head;
-        curr->next=head->next;
-        head->next->prev=curr;
-        head->next=curr;
-    }
-    DlinkedNode * removeTail()
-    {
-        DlinkedNode * curr=tail->prev;
-        curr->prev->next=tail;
-        tail->prev=curr->prev;
-        return curr;
     }
 };
 

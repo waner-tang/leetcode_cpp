@@ -11,6 +11,7 @@ include_directories(${PROJECT_SOURCE_DIR}/include)
 file(GLOB SrcFiles 
     ${PROJECT_SOURCE_DIR}/*.cpp
     ${PROJECT_SOURCE_DIR}/src/*.cpp
+    ${PROJECT_SOURCE_DIR}/src/hot100_fist_save/*.cpp
 )
 
 # 设置可执行文件输出路径为 build 目录

@@ -1,4 +1,4 @@
-#include "header_files.h"
+#include"header_files.h"
 /*
  * @lc app=leetcode.cn id=437 lang=cpp
  *
@@ -17,38 +17,33 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution
-{
+class Solution {
+private:
+    unordered_map<long, int> prefix;
 public:
-    int pathSum(TreeNode *root, int targetSum)
-    {
-        if (!root)
-        {
+    int pathSum(TreeNode* root, int targetSum) {
+        if (!root) {
             return 0;
         }
-        
-        int num=0;
-        num=traceback(root, targetSum);
-        num+=pathSum(root->left,targetSum);
-        num+=pathSum(root->right,targetSum);
-        return num;
+        prefix[0]=1;
+        return traceback(root,targetSum,0);
     }
-    int traceback(TreeNode *root, long targetSum)
-    {
-        if (!root)
-        {
+    int traceback(TreeNode* root, int targetSum, long curr) {
+        if (!root) {
             return 0;
         }
-        
-        int num=0;
-        if (targetSum==root->val)
-        {
-            num++;
-        }
+        int ans = 0;
 
-        num+=traceback(root->left, targetSum-root->val);
-        num+=traceback(root->right, targetSum-root->val);
-        return num;
+        curr += root->val;
+        if (prefix.find(curr - targetSum) != prefix.end()) {
+            ans = prefix[curr - targetSum];
+        }
+        prefix[curr]++;
+        ans+=traceback(root->left,targetSum,curr);
+        ans+=traceback(root->right,targetSum,curr);
+        prefix[curr]--;
+        return ans;
     }
 };
 // @lc code=end
+
