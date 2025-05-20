@@ -17,7 +17,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {//.tangwaner  1233465
+class Solution {
 private:
     unordered_map<long, int> prefix;
 public:
