@@ -17,7 +17,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+class Solution {// for test
 private:
     unordered_map<long, int> prefix;
 public:
