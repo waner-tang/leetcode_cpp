@@ -17,7 +17,11 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+<<<<<<< HEAD
 class Solution {
+=======
+class Solution {//.tangwaner  12334654551
+>>>>>>> ee1942e02b8d6309e44b0abe1e5e0ef6d48227c9
 private:
     unordered_map<long, int> prefix;
 public:
